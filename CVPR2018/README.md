@@ -1,6 +1,37 @@
 ## <font face=""> CVPR2018 papers </font>
 ***Keywords: embedding, metric learning, fine grained classification, zero-shot/one-shot/low-shot/few-shot learning, recognition***
+<!-- TOC -->
 
+- [<font face=""> CVPR2018 papers </font>](#font-face-cvpr2018-papers-font)
+    - [1. CLEAR: Cumulative LEARning for One-Shot One-Class Image Recognition](#1-clear-cumulative-learning-for-one-shot-one-class-image-recognition)
+    - [2. Context Embedding Networks](#2-context-embedding-networks)
+    - [3.CosFace: Large Margin Cosine Loss for Deep Face Recognition](#3cosface-large-margin-cosine-loss-for-deep-face-recognition)
+    - [4.Deep Adversarial Metric Learning](#4deep-adversarial-metric-learning)
+    - [5.Discriminative Learning of Latent Features for Zero-Shot Recognition](#5discriminative-learning-of-latent-features-for-zero-shot-recognition)
+    - [6.Dynamic Few-Shot Visual Learning without Forgetting](#6dynamic-few-shot-visual-learning-without-forgetting)
+    - [7.Feature Generating Networks for Zero-Shot Learning](#7feature-generating-networks-for-zero-shot-learning)
+    - [8.Few-Shot Image Recognition by Predicting Parameters from Activations](#8few-shot-image-recognition-by-predicting-parameters-from-activations)
+    - [9. Finding beans in burgers:Deep semantic-visual embedding with localization](#9-finding-beans-in-burgersdeep-semantic-visual-embedding-with-localization)
+    - [10. Hierarchical Novelty Detection for Visual Object Recognition](#10-hierarchical-novelty-detection-for-visual-object-recognition)
+    - [11. Large-scale Distance Metric Learning with Uncertainty](#11-large-scale-distance-metric-learning-with-uncertainty)
+    - [12.Learning a Discriminative Filter Bank within a CNN for Fine-grained Recognition](#12learning-a-discriminative-filter-bank-within-a-cnn-for-fine-grained-recognition)
+    - [13.Learning to Compare: Relation Network for Few-Shot Learning](#13learning-to-compare-relation-network-for-few-shot-learning)
+    - [14.Learning Transferable Architectures for Scalable Image Recognition](#14learning-transferable-architectures-for-scalable-image-recognition)
+    - [15.Low-Shot Learning from Imaginary Data](#15low-shot-learning-from-imaginary-data)
+    - [16.Low-Shot Learning with Imprinted Weights](#16low-shot-learning-with-imprinted-weights)
+    - [**<font color =Orange>17.Memory Matching Networks for One-Shot Image Recognition</font>**](#font-color-orange17memory-matching-networks-for-one-shot-image-recognitionfont)
+    - [18. Mining on Manifolds: Metric Learning without Labels](#18-mining-on-manifolds-metric-learning-without-labels)
+    - [19.MoNet: Moments Embedding Network](#19monet-moments-embedding-network)
+    - [20. OLE: Orthogonal Low-rank Embedding, A Plug and Play Geometric Loss for Deep Learning](#20-ole-orthogonal-low-rank-embedding-a-plug-and-play-geometric-loss-for-deep-learning)
+    - [21. Recurrent Pixel Embedding for Instance Grouping](#21-recurrent-pixel-embedding-for-instance-grouping)
+    - [22. Transductive Unbiased Embedding for Zero-Shot Learning](#22-transductive-unbiased-embedding-for-zero-shot-learning)
+    - [23. Webly Supervised Learning Meets Zero-shot Learning: A Hybrid Approach for Fine-grained Classification](#23-webly-supervised-learning-meets-zero-shot-learning-a-hybrid-approach-for-fine-grained-classification)
+    - [24. Zero-Shot Kernel Learning](#24-zero-shot-kernel-learning)
+    - [25. Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs](#25-zero-shot-recognition-via-semantic-embeddings-and-knowledge-graphs)
+    - [26. Zero-Shot Sketch-Image Hashing](#26-zero-shot-sketch-image-hashing)
+    - [27. Zero-Shot Visual Recognition using Semantics-Preserving Adversarial Embedding Networks](#27-zero-shot-visual-recognition-using-semantics-preserving-adversarial-embedding-networks)
+
+<!-- /TOC -->
 
 ### 1. CLEAR: Cumulative LEARning for One-Shot One-Class Image Recognition
 + Abstrct  
